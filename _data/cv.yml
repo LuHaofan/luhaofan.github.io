@@ -2,96 +2,85 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Haofan Lu
+    - name: Email
+      value: haofan [at] cs.ucla.edu
+
+- title: Research Interests
+  type: map
+  contents:
+    - value: Internet of things, Wireless sensing and communication systems, Signal processing, Machine learning
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Student in Computer Science
+      institution: University of California, Los Angeles
+      year: 2021 ~ Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Advisor: <a href = 'https://web.cs.ucla.edu/~omid/'>Prfessor Omid Abari</i>."
+        - "Research focus area: Wireless sensing and communication systems."
+        - "Major area: Computer Network Systems"
+        - title: Minor areas
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Artificial Intelligence.
+            - Human-Computer Interaction.
+    - title: Bachelor of Science in Electrical Engineering
+      institution: University of Illinois at Urbana Champaign
+      year: 2017~2021
       description:
-        - Description 1.
-        - Description 2.
+        - "Thesis advisor: <a href = 'https://croy.web.engr.illinois.edu/'>Professor Romit Roy Choudhury</a>."
+        - "Thesis project: Indoor Localization with the Assistance of Ultrasonic Beacons"
+    - title: Bachelor of Engineering in Electrical Engineering
+      institution: Zhejiang University, China
+      year: 2017~2021
 
-- title: Experience
+- title: Publications
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: "[HotNets'22]: Bringing WiFi Localization to Any WiFi Devices"
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Authors: <u>Haofan Lu</u>, Tianxiang Li, Reza Rezvani, Ali Abedi, Omid Abari"
+        - "Acceptance rate: 32/104 = 30.8%."
+        
+    - title: "[IJHMT]: Deep learning techniques elucidate and modify the shape factor to extend the effective medium
+theory beyond its original formulation [<a href='https://www.sciencedirect.com/science/article/pii/S0017931021014046'>Link</a>]" 
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - "Authors: <u>Haofan Lu</u>, Yi Yu, Ankit Jain, Yee Sin Ang, Wee-Liat Ong"
+        - "IF: 5.584"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Selected Research Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: WiFi Physical Layer security loopholes and their implications
+      year: Spet. 2021-present
+      description: 
+        - Reveal that WiFi Physical layer replies ACK to any packet, even those coming out of the network.
+        - Reveal that WiFi Physical layer power-saving mechanism can be manipulated by fake beacon packets.
+        - Investigate the possible security implications of these loopholes, including the disclosure of sensitive information, such as breathing rate; battery drainage of important IoT devices, such as security cameras.
+
+    - title: WiFi Localization for IoT devices with a single RF chain
+      year: March 2022-present
+      description:
+        - Investigate the WiFi Probing Mechanism and combine it with the Frequency Scanning Antenna (FSA) technique for Angle-of-Arrival (AoA) measurement.
+        - Develop Time-of-Flight (ToF) based ranging techniques that achieve sub-meter level accuracy on ESP32 platform.
+        - Combine ToF and AoA information to enable localization for devices with a single RF chain.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - <b>Graduation with Highest Honor</b> of University of Illinois at Urbana-Champaign
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - <b>Dean's List</b> of University of Illinois at Urbana-Champaign
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+- title: Programming Languages and Skills
+  type: map
+  contents: 
+    - value: Python, C/C++, JAVA, JavaScript, Matlab
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
