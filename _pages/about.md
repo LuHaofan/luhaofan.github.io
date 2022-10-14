@@ -11,7 +11,7 @@ profile:
   address: >
     <p>ENG VI 497</p>
     <p>404 Westwood Plaza</p>
-    <p>Los Angeles, CA, 90025</p>
+    <p>Los Angeles, CA, 90095</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
