@@ -68,6 +68,24 @@ theory beyond its original formulation [<a href='https://www.sciencedirect.com/s
         - Develop Time-of-Flight (ToF) based ranging techniques that achieve sub-meter level accuracy on ESP32 platform.
         - Combine ToF and AoA information to enable localization for devices with a single RF chain.
 
+- title: Selected Engineering Projects
+  type: time_table
+  contents:
+    - title: "JOKER: JOint KnowledgE & Reference -- A Note-taking App for Researchers [<a href='https://github.com/LuHaofan/Joker'>Link</a>]"
+      year: Jan. 2022- Apr. 2022
+      description: 
+        - Designed and Implemented Web UI using Javascript based on jQuery and BootStrap3.
+        - "Implemented backend using Django and integrated a graph database: Neo4j."
+        - Employed NLP algorithms to automatically parse the citation and extract keywords.
+        - Built and Visualized citation tree and related articles in the database.
+
+    - title: "A Crowd-sourcing Urban Air Quality Monitoring System on Bicycles [<a href='../assets/pdf/445_final_report.pdf'>Link</a>]"
+      year: Jan. 2021 - Jun 2021
+      description:
+        - Designed and fabricated air quality sensor boards that measure air contaminants concentrations.
+        - Developed backend with Nginx and use Influx DB to store collected sensor data.
+        - Visualized the air quality at each area of the city in a Web application using Amap API.
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -77,10 +95,13 @@ theory beyond its original formulation [<a href='https://www.sciencedirect.com/s
     - year: 2020
       items: 
         - <b>Dean's List</b> of University of Illinois at Urbana-Champaign
+    - year: 2020 
+      items: <b> Second-class Scholarship</b> of Zhejiang University
 
 - title: Programming Languages and Skills
   type: map
   contents: 
-    - value: Python, C/C++, JAVA, JavaScript, Matlab
+    - value: "Languages: Python, C/C++, JAVA, JavaScript, MATLAB"
+    - value: "Frameworks & Platforms: PyTorch, ESP-IDF (w/ ESP32), GNU Radio (w/ SDR), Unity (w/ Oculus VR), Django"
 
 
