@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile_img.jpeg
+  image: profile_img.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>ENG VI 497</p>
