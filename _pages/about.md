@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a **fourth** year PhD Candidate in [Computer Science](https://www.cs.ucla.edu/) at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by [Professor Omid Abari](https://web.cs.ucla.edu/~omid/).
 
-My current research interest is in AI for Wireless systems, Internet of Things and Integrated Sensing and Communication.
+My current research interest is in **AI for Wireless systems, Internet of Things and Integrated Sensing and Communication**.
 
 Before joining UCLA, I received a Bachelor of Science degree in Electrical Engineering with highest honor from [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/), and a Bachelor of Engineering degree in Electrical Engineering and Automation from [Zhejiang University](https://www.zju.edu.cn/english/). It's a dual-degree undergrad program by [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn/en).
