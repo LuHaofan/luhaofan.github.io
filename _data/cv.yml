@@ -40,7 +40,7 @@
   contents:
     - title: Neural Wireless Radiation Fields Reconstruction and Channel Prediction
       year: Feb 2023 - May 2024
-      institution: <b>Keywords:</b> Neural Radiance Fields, Wireless Channel Prediction, Wireless Coverage
+      keywords: <b>Keywords:</b> Neural Radiance Fields, Wireless Channel Prediction, Wireless Coverage
       description:
         - Designed a Neural Radiance Fields (NeRF)-based framework to predict the wireless channel at any location in the environment using sparse channel measurements
         - Integrated wireless propagation properties into the learning framework of NeRF to characterize wireless fields
@@ -49,7 +49,7 @@
 
     - title: Millimeter-Wave Backscatter Integrated Sensing and Communication
       year: Jun 2022 - Feb 2023
-      institution: <b>Keywords:</b> Millimeter-Wave, Backscatter Communication, FMCW Radar, IoT
+      keywords: <b>Keywords:</b> Millimeter-Wave, Backscatter Communication, FMCW Radar, IoT
       description:
         - Designed and implemented a low-power millimeter wave backscatter system for IoT applications
         - Designed a novel modulation scheme that utilizes the frequency scanning antenna to enable two-way communication, and Frequency-Modulated Continuous-Wave (FMCW) radar for localization
@@ -57,7 +57,7 @@
 
     - title: Enhancing WiFi Communication and Sensing using Smart Antenna
       year: Mar 2022 - Sep 2023
-      institution: <b>Keywords:</b> Smart Antenna, WiFi, Frequency Scanning Antenna, 802.11ax
+      keywords: <b>Keywords:</b> Smart Antenna, WiFi, Frequency Scanning Antenna, 802.11ax
       description:
         - Designed and Fabricated a Frequency Scanning Antenna (FSA) at WiFi band (5.8GHz)
         - Integrated the antenna with the latest WiFi standard (802.11ax) to enhance communication range and datarate
@@ -65,7 +65,7 @@
 
     - title: WiFi Physical Layer security loopholes and their implications
       year: Spet. 2021 - Feb. 2023
-      institution: <b>Keywords:</b> WiFi, Physical Layer, Security, Power Saving
+      keywords: <b>Keywords:</b> WiFi, Physical Layer, Security, Power Saving
       description: 
         - Reveal that WiFi Physical layer replies ACK to any packet, even those coming out of the network.
         - Reveal that WiFi Physical layer power-saving mechanism can be manipulated by fake beacon packets.
@@ -73,7 +73,7 @@
 
     - title: Indoor Localization with the Assistance of Ultrasonic Beacons
       year: June 2020 - May 2021
-      institution: <b>Keywords:</b> Ultrasonic Sensing, IMU, Dead Reckoning, Pulse Compression, DTMF
+      keywords: <b>Keywords:</b> Ultrasonic Sensing, IMU, Dead Reckoning, Pulse Compression, DTMF
       description:
         - Based on the hardware non-linearity, designed inaudible acoustic signals that are detectable by mobile phones.
         - Designed signal detection scheme based on Pulse Compression and Dual-Tone Multi-Frequency (DTMF) techniques
@@ -84,7 +84,7 @@
   contents:
     - title: "Virtual Representative Remote Reality for people with disability"
       year: Mar. 2022- Jun. 2022
-      institution: Python, Arduino, Raspberry Pi, Oculus VR API
+      skills: <b>Skills:</b> Python, Arduino, Raspberry Pi, Oculus VR API
       description: 
         - Built a robot that can be remotely controlled by Oculus VR headset based on Arduino and Raspberry Pi.
         - Implemented visual system on the robot and remote control interaction based on Oculus VR API.
@@ -92,7 +92,7 @@
 
     - title: "JOKER: JOint KnowledgE & Reference -- A Note-taking App for Researchers [<a href='https://github.com/LuHaofan/Joker'>Link</a>]"
       year: Jan. 2022- Apr. 2022
-      institution: Python, Django, Neo4j, NLP, Javascript, jQuery, BootStrap3
+      skills: <b>Skills:</b> Python, Django, Neo4j, NLP, Javascript, jQuery, BootStrap3
       description: 
         - Designed and Implemented Web UI using Javascript based on jQuery and BootStrap3.
         - Implemented backend using Django and integrated a graph database, Neo4j.
@@ -101,7 +101,7 @@
 
     - title: "A Crowd-sourcing Urban Air Quality Monitoring System on Bicycles [<a href='../assets/pdf/445_final_report.pdf'>Link</a>]"
       year: Jan. 2021 - Jun 2021
-      institution: C/C++, Nginx, InfluxDB, Amap API
+      skills: <b>Skills:</b> Python, Nginx, InfluxDB, Amap API
       description:
         - Designed and fabricated air quality sensor boards that measure air contaminants concentrations.
         - Developed backend with Nginx and use Influx DB to store collected sensor data.
@@ -109,7 +109,7 @@
 
     - title: "Hand-written digit recognition using Neural Network on FPGA"
       year: Jan. 2020 - May. 2020
-      institution: Python, FPGA, SystemVerilog
+      skills: <b>Skills:</b> Python, FPGA, SystemVerilog
       description:
         - Implemented a 3-layer Neural Network on FPGA to recognize hand-written digits.
         - Implemented the Convolutional Neural Network online inference on a DE2-115 FPGA development board.
@@ -119,14 +119,14 @@
   type: time_table
   contents:
     - title: "Samsung Research America - Standard and Mobility Innovation Lab"
-      institution: "Research Intern"
+      role: <b>Role:</b> Research Intern
       year: Jun. 2023 - Sep. 2023
       description:
         - <b>Project:</b> WiFi-based velocity estimation and tracking for Ambient Intelligence
         - Developed an indoor device-free tracking system based on WiFi, and filed a patent for the code and artifacts
 
     - title: "Hewlett Packard Labs - Networking and Distributed Systems Lab"
-      institution: "Research Intern"
+      role: <b>Role:</b> Research Intern
       year: Jun. 2024 - Sep. 2024
       description:
         - <b>Project:</b> Integrated Sensing and Communication for Private 5G Systems
