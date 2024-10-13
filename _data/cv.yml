@@ -87,7 +87,7 @@
 
     - title: "JOKER: JOint KnowledgE & Reference -- A Note-taking App for Researchers [<a href='https://github.com/LuHaofan/Joker'>Link</a>]"
       year: Jan. 2022- Apr. 2022
-      skills: Python, Django, Neo4j, NLP
+      skills: Python, Django, Neo4j, NLP, Javascript, jQuery, BootStrap3
       description: 
         - Designed and Implemented Web UI using Javascript based on jQuery and BootStrap3.
         - Implemented backend using Django and integrated a graph database, Neo4j.
