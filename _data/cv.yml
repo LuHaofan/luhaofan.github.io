@@ -113,15 +113,15 @@
 - title: Industry Experience
   type: time_table
   contents:
-    - title: "Research Intern"
-      institution: "Samsung Research America"
+    - title: "Samsung Research America - Standard and Mobility Innovation Lab"
+      role: "Research Intern"
       year: Jun. 2023 - Sep. 2023
       description:
         - <b>Project:</b> WiFi-based velocity estimation and tracking for Ambient Intelligence
         - Developed an indoor device-free tracking system based on WiFi, and filed a patent for the code and artifacts
 
-    - title: "Research Intern"
-      institution: "Hewlett Packard Labs - Networking and Distributed Systems Lab"
+    - title: "Hewlett Packard Labs - Networking and Distributed Systems Lab"
+      role: "Research Intern"
       year: Jun. 2024 - Sep. 2024
       description:
         - <b>Project:</b> Integrated Sensing and Communication for Private 5G Systems
