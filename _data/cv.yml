@@ -9,7 +9,7 @@
 - title: Research Interests
   type: map
   contents:
-    - value: AI for Wireless Sensing and Communication Systems
+    - value: AI for Wireless, Internet of Things, Mobile Computing, and Integrated Sensing and Communication
 
 - title: Education
   type: time_table
@@ -19,7 +19,7 @@
       year: 2021 ~ Present
       description:
         - "Advisor: <a href = 'https://web.cs.ucla.edu/~omid/'>Prfessor Omid Abari</i>."
-        - "Research focus area: Wireless sensing and communication systems."
+        - "Research focus area: AI for Wireless sensing and communication systems."
         - "Major area: Computer Network Systems"
         - title: Minor areas
           contents:
