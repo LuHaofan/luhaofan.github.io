@@ -75,13 +75,13 @@
   contents:
     - year: 2024
       items: 
-        - "Amazon AI Fellowship [<a href='https://www.sciencehub.ucla.edu/2024-amazon-fellows/'>Link</a>]"
+        - <b>Amazon AI Fellowship</b> [<a href='https://www.sciencehub.ucla.edu/2024-amazon-fellows/'>Link</a>]
     - year: 2024
       items: 
-        - "Qualcomm Innovation Fellowship [<a href='https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america'>Link</a>]"
+        - <b>Qualcomm Innovation Fellowship</b> [<a href='https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america'>Link</a>]
     - year: 2021
       items: 
-        - "PhD Research Fellowship of University of California, Los Angeles"
+        - <b>PhD Research Fellowship</b> of University of California, Los Angeles
     - year: 2021
       items: 
         - <b>Graduation with Highest Honor</b> of University of Illinois at Urbana-Champaign
