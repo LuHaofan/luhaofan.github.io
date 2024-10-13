@@ -38,37 +38,95 @@
 - title: Selected Research Projects
   type: time_table
   contents:
+    - title: Neural Wireless Radiation Fields Reconstruction and Channel Prediction
+      year: Feb 2023 - May 2024
+      description:
+        - Designed a Neural Radiance Fields (NeRF)-based framework to predict the wireless channel at any location in the environment using sparse channel measurements
+        - Integrated wireless propagation properties into the learning framework of NeRF to characterize wireless fields
+        - Discovered the nature of wireless radiation scenes and enabled the learning of wireless fields in room-scale space
+        - <b>Results:</b> model achieves 1\% relative squared error using 800x lower channel measurement density than prior art
+
+    - title: Millimeter-Wave Backscatter Integrated Sensing and Communication
+      year: Jun 2022 - Feb 2023
+      description:
+        - Designed and implemented a low-power millimeter wave backscatter system for IoT applications
+        - Designed a novel modulation scheme that utilizes the frequency scanning antenna to enable two-way communication, and Frequency-Modulated Continuous-Wave (FMCW) radar for localization
+        - <b>Resulting System Performance:</b> cm-level localization accuracy, and up to 40 Mbps two-way communication with a power consumption of at most 32 mW
+
+    - title: Enhancing WiFi Communication and Sensing using Smart Antenna
+      year: Mar 2022 - Sep 2023
+      description:
+        - Designed and Fabricated a Frequency Scanning Antenna (FSA) at WiFi band (5.8GHz)
+        - Integrated the antenna with the latest WiFi standard (802.11ax) to enhance communication range and datarate
+        - Enable device localization with submeter-level accuracy using a single transceiver chain
+
     - title: WiFi Physical Layer security loopholes and their implications
-      year: Spet. 2021-present
+      year: Spet. 2021 - Feb. 2023
       description: 
         - Reveal that WiFi Physical layer replies ACK to any packet, even those coming out of the network.
         - Reveal that WiFi Physical layer power-saving mechanism can be manipulated by fake beacon packets.
         - Investigate the possible security implications of these loopholes, including the disclosure of sensitive information, such as breathing rate; battery drainage of important IoT devices, such as security cameras.
 
-    - title: WiFi Localization for IoT devices with a single RF chain
-      year: March 2022-present
+    - title: Indoor Localization with the Assistance of Ultrasonic Beacons
+      year: June 2020 - May 2021
       description:
-        - Investigate the WiFi Probing Mechanism and combine it with the Frequency Scanning Antenna (FSA) technique for Angle-of-Arrival (AoA) measurement.
-        - Develop Time-of-Flight (ToF) based ranging techniques that achieve sub-meter level accuracy on ESP32 platform.
-        - Combine ToF and AoA information to enable localization for devices with a single RF chain.
+        - Based on the hardware non-linearity, designed inaudible acoustic signals that are detectable by mobile phones.
+        - Designed signal detection scheme based on Pulse Compression and Dual-Tone Multi-Frequency (DTMF) techniques
+        - Achieved in-time location calibration with the designed beacon signal, which improves the IMU dead reckoning localization accuracy.
 
 - title: Selected Engineering Projects
   type: time_table
   contents:
+    - title: "Virtual Representative Remote Reality for people with disability"
+      year: Mar. 2022- Jun. 2022
+      skills: Python, Arduino, Raspberry Pi, Oculus VR API
+      description: 
+        - Built a robot that can be remotely controlled by Oculus VR headset based on Arduino and Raspberry Pi.
+        - Implemented visual system on the robot and remote control interaction based on Oculus VR API.
+        - The project wins the honorable mention award of class demo (Top 2).
+
     - title: "JOKER: JOint KnowledgE & Reference -- A Note-taking App for Researchers [<a href='https://github.com/LuHaofan/Joker'>Link</a>]"
       year: Jan. 2022- Apr. 2022
+      skills: Python, Django, Neo4j, NLP
       description: 
         - Designed and Implemented Web UI using Javascript based on jQuery and BootStrap3.
-        - "Implemented backend using Django and integrated a graph database: Neo4j."
+        - Implemented backend using Django and integrated a graph database, Neo4j.
         - Employed NLP algorithms to automatically parse the citation and extract keywords.
         - Built and Visualized citation tree and related articles in the database.
 
     - title: "A Crowd-sourcing Urban Air Quality Monitoring System on Bicycles [<a href='../assets/pdf/445_final_report.pdf'>Link</a>]"
       year: Jan. 2021 - Jun 2021
+      skills: C/C++, Nginx, InfluxDB, Amap API
       description:
         - Designed and fabricated air quality sensor boards that measure air contaminants concentrations.
         - Developed backend with Nginx and use Influx DB to store collected sensor data.
         - Visualized the air quality at each area of the city in a Web application using Amap API.
+
+    - title: "Hand-written digit recognition using Neural Network on FPGA"
+      year: Jan. 2020 - May. 2020
+      skills: Python, FPGA, SystemVerilog
+      description:
+        - Implemented a 3-layer Neural Network on FPGA to recognize hand-written digits.
+        - Implemented the Convolutional Neural Network online inference on a DE2-115 FPGA development board.
+        - Achieved 83% accuracy in the real-time evaluation
+
+- title: Industry Experience
+  type: time_table
+  contents:
+    - title: "Research Intern"
+      institution: "Samsung Research America"
+      year: Jun. 2023 - Sep. 2023
+      description:
+        - <b>Project:</b> WiFi-based velocity estimation and tracking for Ambient Intelligence
+        - Developed an indoor device-free tracking system based on WiFi, and filed a patent for the code and artifacts
+
+    - title: "Research Intern"
+      institution: "Hewlett Packard Labs - Networking and Distributed Systems Lab"
+      year: Jun. 2024 - Sep. 2024
+      description:
+        - <b>Project:</b> Integrated Sensing and Communication for Private 5G Systems
+        - Profiled the handover latency between commercial deployed WiFi and Private 5G networks
+        - Designed and Implemented a 5G-based sensing system to reduce the handover latency
 
 - title: Honors and Awards
   type: time_table
