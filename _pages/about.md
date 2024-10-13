@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a fourth year PhD student in [Computer Science](https://www.cs.ucla.edu/) at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by [Professor Omid Abari](https://web.cs.ucla.edu/~omid/).
+I am currently a **fourth** year PhD Candidate in [Computer Science](https://www.cs.ucla.edu/) at [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by [Professor Omid Abari](https://web.cs.ucla.edu/~omid/).
 
 My current research interest is in AI for Wireless systems, Internet of Things and Integrated Sensing and Communication.
 
