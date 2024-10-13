@@ -9,7 +9,7 @@
 - title: Research Interests
   type: map
   contents:
-    - value: Internet of things, Wireless sensing and communication systems, Signal processing, Machine learning
+    - value: AI for Wireless Sensing and Communication Systems
 
 - title: Education
   type: time_table
@@ -34,22 +34,6 @@
     - title: Bachelor of Engineering in Electrical Engineering
       institution: Zhejiang University, China
       year: 2017~2021
-
-- title: Publications
-  type: time_table
-  contents:
-    - title: "[HotNets'22]: Bringing WiFi Localization to Any WiFi Devices"
-      year: 2022
-      description:
-        - "Authors: <u>Haofan Lu</u>, Tianxiang Li, Reza Rezvani, Ali Abedi, Omid Abari"
-        - "Acceptance rate: 32/104 = 30.8%."
-        
-    - title: "[IJHMT]: Deep learning techniques elucidate and modify the shape factor to extend the effective medium
-theory beyond its original formulation [<a href='https://www.sciencedirect.com/science/article/pii/S0017931021014046'>Link</a>]" 
-      year: 2022
-      description:
-        - "Authors: <u>Haofan Lu</u>, Yi Yu, Ankit Jain, Yee Sin Ang, Wee-Liat Ong"
-        - "IF: 5.584"
 
 - title: Selected Research Projects
   type: time_table
@@ -89,6 +73,15 @@ theory beyond its original formulation [<a href='https://www.sciencedirect.com/s
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - "Amazon AI Fellowship [<a href='https://www.sciencehub.ucla.edu/2024-amazon-fellows/'>Link</a>]"
+    - year: 2024
+      items: 
+        - "Qualcomm Innovation Fellowship [<a href='https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america'>Link</a>]"
+    - year: 2021
+      items: 
+        - "PhD Research Fellowship of University of California, Los Angeles"
     - year: 2021
       items: 
         - <b>Graduation with Highest Honor</b> of University of Illinois at Urbana-Champaign
@@ -101,7 +94,8 @@ theory beyond its original formulation [<a href='https://www.sciencedirect.com/s
 - title: Programming Languages and Skills
   type: map
   contents: 
-    - value: "Languages: Python, C/C++, JAVA, JavaScript, MATLAB"
-    - value: "Frameworks & Platforms: PyTorch, ESP-IDF (w/ ESP32), GNU Radio (w/ SDR), Unity (w/ Oculus VR), Django"
+    - value: "Languages: Python, C/C++, MATLAB, CUDA"
+    - value: "Frameworks & Platforms: PyTorch, ESP-IDF (w/ ESP32), GNU Radio (w/ USRP), OpenAirInterface, srsRAN"
+    - value: "Software: Wireless Insite, WaveFarer, Accuver XCAL, Blender"
 
 
